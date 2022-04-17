@@ -1,0 +1,7 @@
+{
+    "host": "kosa2.iptime.org",
+    "user": "kingsmile",
+    "password": "password",
+    "port": "50300",
+    "database": "kosadb"
+}
